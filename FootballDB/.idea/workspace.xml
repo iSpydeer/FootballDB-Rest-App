@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="978e0dd0-e1eb-4d79-9aae-22ea2f439787" name="Changes" comment="New Commit">
+      <change afterPath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/services/ClubServiceIntegrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/services/PlayerServiceIntegrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/FootballDbApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/FootballDbApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/controllers/ClubController.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/controllers/ClubController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/controllers/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/controllers/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/dto/ClubDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/dto/ClubDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/dto/PlayerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/dto/PlayerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/entities/ClubEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/entities/Club.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/entities/PlayerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/domain/entities/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/mappers/Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/mappers/impl/ClubMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/mappers/impl/PlayerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/repositories/ClubRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/repositories/ClubRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/repositories/PlayerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/repositories/PlayerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/services/ClubService.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/services/ClubService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/services/PlayerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/services/PlayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/services/impl/ClubServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/main/java/com/ispydeer/footballteamdb/services/impl/PlayerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/controllers/ClubControllerIntegrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/controllers/ClubControllerIntegrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/controllers/PlayerControllerIntegrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/controllers/PlayerControllerIntegrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/repositories/ClubRepositoryIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/repositories/ClubRepositoryIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/repositories/PlayerRepositoryIntegrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/repositories/PlayerRepositoryIntegrationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/utilities/TestDataCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/test/java/com/ispydeer/footballteamdb/utilities/TestDataCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football-team-db/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/football-team-db/src/test/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iSpydeer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/iSpydeer/FootballDB.git&quot;,
+    &quot;accountId&quot;: &quot;bbfbabae-648c-456d-a085-786f463ce0b0&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fHNb36pd1vuogTvjYUnpKAORQI" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ClubControllerIntegrationTests and 4 more.executor": "Run",
+    "JUnit.ClubControllerIntegrationTests and 5 more.executor": "Run",
+    "JUnit.ClubControllerIntegrationTests.testThatGetClubSuccessfullyReturnsHttpStatus200AndFoundClub.executor": "Run",
+    "JUnit.ClubRepositoryIntegrationTest.executor": "Run",
+    "JUnit.ClubRepositoryIntegrationTest.testThatClubCanBeCreatedAndRecalled.executor": "Run",
+    "JUnit.Tests.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.FootballDbApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jakub/IdeaProjects/TodoApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.FootballDbApplication">
+    <configuration name="ClubControllerIntegrationTests.testThatGetClubSuccessfullyReturnsHttpStatus200AndFoundClub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football-team-db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ispydeer.footballteamdb.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ispydeer.footballteamdb.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.ispydeer.footballteamdb.controllers.ClubControllerIntegrationTests" />
+      <option name="METHOD_NAME" value="testThatGetClubSuccessfullyReturnsHttpStatus200AndFoundClub" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClubRepositoryIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football-team-db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ispydeer.footballteamdb.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ispydeer.footballteamdb.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.ispydeer.footballteamdb.repositories.ClubRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClubRepositoryIntegrationTest.testThatClubCanBeCreatedAndRecalled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football-team-db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ispydeer.footballteamdb.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ispydeer.footballteamdb.repositories" />
+      <option name="MAIN_CLASS_NAME" value="com.ispydeer.footballteamdb.repositories.ClubRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="testThatClubCanBeCreatedAndRecalled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="football-team-db" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <option name="VM_PARAMETERS" value="-ea -Duser.timezone=UTC" />
+      <patterns>
+        <pattern testClass="com.ispydeer.footballteamdb.controllers.ClubControllerIntegrationTests" />
+        <pattern testClass="com.ispydeer.footballteamdb.controllers.PlayerControllerIntegrationTests" />
+        <pattern testClass="com.ispydeer.footballteamdb.repositories.*" />
+        <pattern testClass="com.ispydeer.footballteamdb.repositories.ClubRepositoryIntegrationTest" />
+        <pattern testClass="com.ispydeer.footballteamdb.repositories.PlayerRepositoryIntegrationTests" />
+        <pattern testClass="com.ispydeer.footballteamdb.utilities.*" />
+        <pattern testClass="com.ispydeer.footballteamdb.services.ClubServiceIntegrationTests" />
+        <pattern testClass="com.ispydeer.footballteamdb.services.PlayerServiceIntegrationTests" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FootballDbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="football-team-db" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ispydeer.footballteamdb.FootballDbApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ispydeer.footballteamdb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ClubControllerIntegrationTests.testThatGetClubSuccessfullyReturnsHttpStatus200AndFoundClub" />
+      <item itemvalue="JUnit.Tests" />
+      <item itemvalue="JUnit.ClubRepositoryIntegrationTest" />
+      <item itemvalue="JUnit.ClubRepositoryIntegrationTest.testThatClubCanBeCreatedAndRecalled" />
+      <item itemvalue="Spring Boot.FootballDbApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FootballDbApplication" />
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.ClubControllerIntegrationTests.testThatGetClubSuccessfullyReturnsHttpStatus200AndFoundClub" />
+        <item itemvalue="JUnit.ClubRepositoryIntegrationTest" />
+        <item itemvalue="JUnit.ClubRepositoryIntegrationTest.testThatClubCanBeCreatedAndRecalled" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="978e0dd0-e1eb-4d79-9aae-22ea2f439787" name="Changes" comment="" />
+      <created>1713454111325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713454111325</updated>
+      <workItem from="1713454112381" duration="4779000" />
+      <workItem from="1717070947972" duration="46000" />
+      <workItem from="1717071046617" duration="130000" />
+      <workItem from="1717172283962" duration="19000" />
+      <workItem from="1718110070968" duration="1806000" />
+      <workItem from="1718722416006" duration="1316000" />
+      <workItem from="1718724329668" duration="23000" />
+      <workItem from="1723306062045" duration="7011000" />
+      <workItem from="1723384066926" duration="458000" />
+      <workItem from="1723388001732" duration="1557000" />
+      <workItem from="1726600434801" duration="746000" />
+      <workItem from="1729787999166" duration="469000" />
+      <workItem from="1729789262920" duration="2902000" />
+      <workItem from="1729792355704" duration="7603000" />
+      <workItem from="1729864080112" duration="9570000" />
+    </task>
+    <task id="LOCAL-00001" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1717071060142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717071060142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1717172292604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717172292604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
+  </component>
+</project>
